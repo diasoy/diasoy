@@ -2,9 +2,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=diasoy&color=blue&style=flat-square)
 
-I am a passionate developer with experience in [your specialties or interests]. I love to learn and contribute to open-source projects. Here’s a little about me:
+I am a passionate developer with experience in Software Develoer. I love to learn and contribute to open-source projects. Here’s a little about me:
 
-- 🌱 I’m currently learning Fullstack Web Developer.
+- 🌱 I’m currently learning Software Developer.
 - 💬 Ask me about Technologies.
 - 📫 How to reach me: diassnorrman@gmail.com.
 - ⚡ Fun fact: Lorem ipsum.
@@ -21,10 +21,11 @@ I am a passionate developer with experience in [your specialties or interests]. 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=diasoy&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=diasoy&show_icons=true&theme=radical)
 
 ## 📈 Most Used Languages
 
@@ -33,13 +34,6 @@ I am a passionate developer with experience in [your specialties or interests]. 
 ## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=diasoy&theme=onedark)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Your latest blog post title](link to your blog post)
-- [Another blog post title](link to another blog post)
-<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Connect with me
 
