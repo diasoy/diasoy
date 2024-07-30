@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Dias Norman! 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=diasoy&color=blue&style=flat-square)
 
