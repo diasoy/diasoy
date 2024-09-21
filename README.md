@@ -7,7 +7,7 @@ I am a passionate developer with experience in Software Develoer. I love to lear
 - 🌱 I’m currently learning Software Developer.
 - 💬 Ask me about Technologies.
 - 📫 How to reach me: diassnorrman@gmail.com.
-- ⚡ Fun fact: Lorem ipsum.
+- ⚡ Fun fact: KDRAMA LOVERS.
 
 ## 🚀 Technologies & Tools
 
