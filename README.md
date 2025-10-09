@@ -16,8 +16,8 @@
 const diasNorman = {
     location: "Surabaya, Indonesia 🇮🇩",
     role: "Software Developer",
-    currentlyLearning: ["Advanced TypeScript", "System Design", "Cloud Architecture"],
-    passions: ["Clean Code", "Web Development", "K-Drama 📺"],
+    currentlyLearning: ["Software Developer", "System Design", "DevOps"],
+    passions: ["Clean Code", "Software Development", "K-Drama 📺", "Trail & Road Running 🏃‍♂️‍➡️"],
     funFact: "I debug with console.log and I'm proud of it! 😄"
 };
 ```
@@ -93,30 +93,6 @@ const diasNorman = {
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Dias Norman))
-    Full Stack Development
-      React & Next.js
-      Node.js & Express
-      Database Design
-    Learning Goals
-      Cloud Services
-      DevOps Practices
-      System Architecture
-    Side Projects
-      Open Source
-      Portfolio
-      Learning Projects
-```
-
-</div>
-
----
 
 ## 📫 Let's Connect!
 
@@ -135,10 +111,6 @@ mindmap
 ### 💭 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🎵 Currently Vibing To
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31l5bkzs6fqqnfwlbyhlz7mrwpqy&cover_image=true&theme=novatoren&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
