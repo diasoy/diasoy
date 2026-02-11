@@ -16,9 +16,8 @@
 const diasNorman = {
     location: "Surabaya, Indonesia 🇮🇩",
     role: "Software Developer",
-    currentlyLearning: ["Software Development", "System Design", "DevOps"],
-    passions: ["Clean Code", "Software Development", "K-Drama 📺", "Trail & Road Running 🏃‍♂️‍➡️"],
-    funFact: "I debug with console.log and I'm proud of it! 😄"
+    currentlyLearning: ["Software Development", "DevOps"],
+    passions: ["Software Development", "Trail & Road Running 🏃‍♂️‍➡️", "K-Drama 📺"],
 };
 ```
 
